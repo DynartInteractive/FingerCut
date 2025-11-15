@@ -1,0 +1,229 @@
+
+game.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+achi_silver
+  rotate: false
+  xy: 869, 628
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+bg1
+  rotate: false
+  xy: 2, 2
+  size: 480, 1013
+  orig: 480, 1013
+  offset: 0, 0
+  index: -1
+black
+  rotate: false
+  xy: 732, 443
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+blade1
+  rotate: false
+  xy: 732, 145
+  size: 231, 122
+  orig: 231, 122
+  offset: 0, 0
+  index: -1
+blade1_shadow
+  rotate: false
+  xy: 732, 269
+  size: 258, 145
+  orig: 258, 145
+  offset: 0, 0
+  index: -1
+blade2
+  rotate: false
+  xy: 484, 455
+  size: 364, 121
+  orig: 364, 121
+  offset: 0, 0
+  index: -1
+blade2_shadow
+  rotate: false
+  xy: 484, 800
+  size: 388, 146
+  orig: 388, 146
+  offset: 0, 0
+  index: -1
+blood
+  rotate: false
+  xy: 484, 202
+  size: 246, 251
+  orig: 246, 251
+  offset: 0, 0
+  index: -1
+button
+  rotate: false
+  xy: 668, 55
+  size: 340, 88
+  orig: 340, 88
+  offset: 0, 0
+  index: -1
+checkbox_off
+  rotate: false
+  xy: 869, 710
+  size: 130, 88
+  orig: 130, 88
+  offset: 0, 0
+  index: -1
+checkbox_on
+  rotate: false
+  xy: 856, 488
+  size: 130, 88
+  orig: 130, 88
+  offset: 0, 0
+  index: -1
+finger
+  rotate: false
+  xy: 874, 831
+  size: 90, 115
+  orig: 90, 115
+  offset: 0, 0
+  index: -1
+gradient_bottom
+  rotate: false
+  xy: 853, 416
+  size: 1, 160
+  orig: 1, 160
+  offset: 0, 0
+  index: -1
+gradient_top
+  rotate: false
+  xy: 850, 416
+  size: 1, 160
+  orig: 1, 160
+  offset: 0, 0
+  index: -1
+lath1
+  rotate: false
+  xy: 484, 948
+  size: 480, 67
+  orig: 480, 67
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 484, 578
+  size: 383, 220
+  orig: 383, 220
+  offset: 0, 0
+  index: -1
+replay_down
+  rotate: false
+  xy: 484, 44
+  size: 182, 156
+  orig: 182, 156
+  offset: 0, 0
+  index: -1
+screw
+  rotate: false
+  xy: 856, 434
+  size: 51, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1
+
+game2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+achi_bronze
+  rotate: false
+  xy: 883, 410
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+achi_gold
+  rotate: false
+  xy: 554, 252
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+back_down
+  rotate: false
+  xy: 370, 176
+  size: 182, 156
+  orig: 182, 156
+  offset: 0, 0
+  index: -1
+back_up
+  rotate: false
+  xy: 699, 334
+  size: 182, 156
+  orig: 182, 156
+  offset: 0, 0
+  index: -1
+gameover
+  rotate: false
+  xy: 2, 405
+  size: 327, 85
+  orig: 327, 85
+  offset: 0, 0
+  index: -1
+play_down
+  rotate: false
+  xy: 331, 334
+  size: 182, 156
+  orig: 182, 156
+  offset: 0, 0
+  index: -1
+play_up
+  rotate: false
+  xy: 2, 160
+  size: 182, 156
+  orig: 182, 156
+  offset: 0, 0
+  index: -1
+privacy_down
+  rotate: false
+  xy: 186, 2
+  size: 182, 156
+  orig: 182, 156
+  offset: 0, 0
+  index: -1
+privacy_up
+  rotate: false
+  xy: 2, 2
+  size: 182, 156
+  orig: 182, 156
+  offset: 0, 0
+  index: -1
+replay_up
+  rotate: false
+  xy: 515, 334
+  size: 182, 156
+  orig: 182, 156
+  offset: 0, 0
+  index: -1
+settings
+  rotate: false
+  xy: 2, 318
+  size: 295, 85
+  orig: 295, 85
+  offset: 0, 0
+  index: -1
+settings_down
+  rotate: false
+  xy: 370, 18
+  size: 182, 156
+  orig: 182, 156
+  offset: 0, 0
+  index: -1
+settings_up
+  rotate: false
+  xy: 186, 160
+  size: 182, 156
+  orig: 182, 156
+  offset: 0, 0
+  index: -1
