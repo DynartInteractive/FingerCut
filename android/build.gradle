@@ -10,7 +10,7 @@ apply plugin: 'com.android.application'
 
 android {
   namespace "info.dynart.fingercut"
-  compileSdk 35
+  compileSdk 36
   sourceSets {
     main {
       manifest.srcFile 'AndroidManifest.xml'
@@ -33,9 +33,9 @@ android {
   defaultConfig {
     applicationId 'info.dynart.fingercut'
     minSdkVersion 21
-    targetSdkVersion 35
-    versionCode 8
-    versionName "1.0.8"
+    targetSdkVersion 36
+    versionCode 9
+    versionName "1.0.9"
   }
   compileOptions {
     sourceCompatibility "8"
